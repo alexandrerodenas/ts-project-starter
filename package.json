@@ -2,7 +2,7 @@
   "name": "ts-project-starter",
   "version": "1.0.0",
   "scripts": {
-    "start": "npx tsc && node build/src/index.js"
+    "start": "npx tsc && node build/src/main.js"
   },
   "dependencies": {
     "typescript": "^5.0.4"
